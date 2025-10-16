@@ -1,0 +1,1 @@
+python -m PyInstaller --noconsole --onefile --add-data "qa_validator_icon.png;." --add-data "qa_validator.png;." --icon qa_validator.ico QAValidator.py
